@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi_Blog_Personal____HOME</title>
+    <!--Aqui enlazamos archivo CSS personalizado-->
+    <link rel="stylesheet" href="style.css">
+    <script src="p5.js"></script>
+  </head>
+  <body>
+
+    <!--Sección 1 La pantalla inicial dividida en 2-->
+    <section class="hero-section">
+      
+      <!--Panel izquierdo fijo o sticky para el sketch de p5.js (Cuadro verde del mockup)-->
+      <aside class="sidebar-interactive">
+	<div id="p5-main-container">
+	  <!--El sketch de p5 se insertará aquí-->
+	</div>
+      </aside>
+
+      <!--Contenido principal derecho-->
+      <div class="hero-right-content">
+      
+	<!--Sección 1/inicio-->
+	  <nav class="top-nav">
+	    <a href="index.html" class="nav-link active"> Home </a>
+	    <a href="blog.html" class="nav-link"> Blog </a>
+	    <a href="about.html" class="nav-link"> About </a>
+	  </nav>
+
+	  <article class="post-preview">
+	    <header>
+	      <h2 class="post-title" id="home-title">Título 1</h2>
+	      <span class="post-date" id="home-post-date">27-Enero-2067</span>
+	    </header>
+	    <div class="ai-image-container" id="image-home">
+	      <!--Aqui va la imagen fotorealista generada por IA-->
+	      <img src="placeholder-ai-1.png" alt="imagen generada por IA">
+	    </div>
+	    <p class="post-excerpt">Texto texto texto aquí va el texto descriptivo de la entrada del blog.</p>
+	  </article>
+      </div>
+    </section>
+
+    <div class="main-container">
+      
+      <!--Sección 2 Entradas recientes, bloques repetidos del mockup-->
+      <section class="page-section">
+	<nav class="top-nav" id="main-post-preview-nav">
+	  <a href="index.html" class="nav-link">Home</a>
+	  <a href="blog.html" class="nav-link">Blog</a>
+	  <a href="about.html" class="nav-link">About</a>
+	</nav>
+	
+	<article class="post-preview split-layout">
+	  <!--Columna izquierda-->	  
+	  <div class="post-text-side">
+	    <h2 class="post-title">Primer título</h2>
+	    <span class="post-date">27-Enero-2067</span>
+	     <p class="post-excerpt">Aquí va el texto, en este caso utilizamos una tipografía verdana para este texto, Segoe UI black para el título y Segoe UI para la fecha</p>
+	  </div>
+	  <!--Columna derecha-->
+	  <div class="ai-image-container">
+            <img src="placeholder-ai-2.jpg" alt="Imagen generada por IA">
+	  </div>
+	</article>
+	
+	<article class="post-preview split-layout">
+	  <!--Columna-izquierda-->
+	  <div class="post-text-side">
+	    <h2 class="post-title">Segundo título</h2>
+	    <span class="post-date">27-Enero-2027</span>
+	    <p class="post-excerpt">Aquí va el texto, en este caso utilizamos una tipografía verdana para este texto, Segoe UI black para el título y Segoe UI para la fecha</p>
+	  </div>
+	  <!--Columna derecha-->
+	  <div class="ai-image-container">
+	    <img src="placeholder-ai-3.png" alt="imagen generada por IA">
+	  </div>
+	</article>
+	
+	<article class="post-preview split-layout">
+	  <!--Columna izquierda-->
+	  <div class="post-text-side">
+	    <h2 class="post-title">Tercer título</h2>
+	    <span class="post-date">27-Enero-2067</span>
+	    <p class="post-excerpt">Aquí va el texto, en este caso utilizamos una tipografía verdana para este texto, Segoe UI black para el título y Segoe UI para la fecha</p>
+	  </div>
+	  <!--Columna derecha-->
+	  <div class="ai-image-container">
+	    <img src="placeholder-ai-4.png" alt="imagen generada por IA">
+	  </div>
+	</article>
+      </section>
+      
+      <!--Sección 3 /cierre y about-->
+      <section class="page-section">
+	<nav class="top-nav">
+	  <a href="index.html" class="nav-link">Home</a>
+	  <a href="blog.html" class="nav-link">Blog</a>
+	  <a href="about.html" class="nav-link">About</a>
+	</nav>
+	
+	<div class="about-footer-block">
+	  <h2 class="section-title">About this blog</h2>
+	  <p class="about-text">
+	    Aquí puedo explicar un poco sobre los temas que se tratarán en el blog y porque he decidido comenzar a escribirlo, definir lo que se desea mostrar y lo que lo vuelve diferente.
+	  </p>
+	  <!--Banner inferior para color solido o sketch de p5.js horizontal-->
+	  
+	</div>
+      </section>
+    </div>
+    <div class="about-bottom-banner" id="p5-bottom-banner-container"></div>
+    <!--Script opcional de p5.js propio para el sketch-->
+    <script src="sketch.js"></script>
+  </body>
+</html>
