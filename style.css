@@ -198,6 +198,69 @@ body, html {
     
 }
 
+.article-container{
+    max-width: 720px;
+    margin: 4rem auto;
+    padding: 0 2rem;
+}
+
+.article-header{
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.article-title{
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: rgb(10,10,10);
+}
+
+.article-meta{
+    font-size: 0.95rem;
+    color: rgb(40,40,40);
+    font-style: italic;
+}
+
+/*Imagen del texto (Cuadro morado del mockup)*/
+.article-banner{
+    width: 80%;
+    height: 380px;
+    background-color: #9333ea;
+    border-radius: 4px;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article-banner img{
+    width: 100%;
+    height: 100%;
+}
+
+/*Tipografía del cuerpo del ensayo*/
+.article-content{
+    font-size: 1.125rem;
+    line-height: 1.75;
+    color: rgb(40,40,40);
+}
+
+.article-content p{
+    margin-bottom: 1.5rem;
+}
+
+.article-content h2{
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: rgb(10,10,10);
+    font-weight: 600;
+}
+
+
+/*ID´s*/
+
 #home-title{
     text-align: center;
 }
@@ -214,4 +277,10 @@ body, html {
 #main-post-preview-nav{
     margin-top: 3rem;
     margin-bottom: 3rem;
+}
+
+#sketch-header{
+    
+    width: 100%;
+    height: 50px;
 }
