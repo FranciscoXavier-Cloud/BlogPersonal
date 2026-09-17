@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="p5.js"></script>
+  </head>
+  <body>
+
+    <div id="blog-nav-div">
+      <nav class="top-nav">
+	<a href="index.html" class="nav-link">Home</a>
+	<a href="blog.html" class="nav-link">Blog</a>
+	<a href="about.html" class="nav-link active">About</a>
+      </nav>
+    </div>
+
+    <div class="main-container">
+      <header class="article-header">
+	<h1 class="article-title">Acerca de este Blog</h1>
+      </header>
+
+      <div class="article-content">
+	<p>Hello Web aaaaaaaaaaaaaaaaaaaaaasssssssssssssssssssssssssssssss ssssssssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggkkkkkkkkkkkkkkkkkkkkkkkkksss ks kssjdyweyfdkloigfj nhaiowjdjcoask n njenb cvyuw cjennciiekjkoihjqye  nqyughreofvie clir  oiyejfovuiencvua kauen  iuepoc mmnshe  xciwqm,ejcv cjksaue vll lkwhe aaaocuemm djwhjcow wcuqo  oiqujec aiwneooerufd ai9wnde aiwje aist laier cioahjef aiwhwoqoxckmja </p>
+      </div>
+    </div>
+    
+    <div class="about-bottom-banner" id="p5-bottom-banner-container"></div>
+    <!--Script opcional de p5.js propio para el sketch-->
+    <script src="sketch.js"></script>
+  </body>
+</html>
