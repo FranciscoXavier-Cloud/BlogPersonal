@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre la incertidumbre entorno al futuro de la I.A.: Por qué el usuario común debe dejar de consumir y empezar a construir</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="p5.js"></script>
+  </head>
+  <body>
+
+    <div id="sketch-header">
+        <!-- Aquí irá tu sketch de p5.js como acordamos en el diseño general -->
+    </div>
+
+    <!--Menú de navegación-->
+    <nav class="top-nav">
+      <a href="index.html" class="nav-link">Home</a>
+      <a href="blog.html" class="nav-link">Blog</a>
+      <a href="about.html" class="nav-link">About</a>
+    </nav>
+    
+    <main class="article-container">
+      <header class="article-header">
+	<h1 class="article-title">Sobre la incertidumbre entorno al futuro de la I.A.: Por qué el usuario común debe dejar de consumir y empezar a construir</h1>
+	<div class="article-meta">
+	  <time datetime="2026-09-11">18-Septiembre-2026</time>
+	</div>
+      </header>
+      
+      <!--Banner o imagen destacada central-->
+      <div class="article-banner">
+	<!--Aqui se puede meter una imagen o un bloque visual-->
+      </div>
+      
+      <!--Cuerpo del texto-->
+      <div class="article-content">
+	
+	<p>
+	  Un vistazo tanto a las redes sociales como a los medios tradicionales de comunicación revela enseguida que el debate sobre la inteligencia artificial ha dejado atrás la euforia técnica para pasar a instalarse de lleno en el terreno de la política y la legislación. Atrás quedaron las discusiones sobre poder de procesamiento o memoria RAM, en su lugar cada semana se discuten nuevas propuestas para endurecer las reglas, frenar accesos o auditar algoritmos bajo la premisa constante de que una IA sin supervisión —autónoma, amoral y desbocada— representa un peligro inminente tan grande que se han llegado a escuchar advertencias contra la completa extinción humana..
+	</p>
+	
+	<p>
+	  Ahora bien, en tanto  esta discusión macroeconómica y legislativa se desenvuelve me parece notar que, efectivamente, hay un gran ausente: el usuario común, el de todos los días, aquel que no puede permitirse pagar una suscripción de gama alta ni integrar licencias corporativas a un flujo de trabajo empresarial. 
+	  Pués mientras que para las grandes compañías, la IA es un costo amortizable que se paga solo a golpe de productividad; para el ciudadano de a pie, es una ventana que corre el riesgo de cerrarse o volverse inalcanzable, en mi particular punto de vista, es aquí donde existe un peligro inminente mucho más cercano para el común de los seres humanos.
+	</p>
+	
+	<p>
+	  Me ha parecido importante llamar la atención sobre este tema porque frente a un escenario de restricción inminente, la tendencia, y la tentación, natural es la queja o la pasividad. Sin embargo, aquí quiero resaltar que, aunque así se piensa, la  protesta burocrática no es la única defensa real que tiene el usuario común, sino que cuenta también con una herramienta inmediata y que depende 100% de él, la acción directa, para la que propongo: aprovechar al máximo la herramienta mientras siga disponible, pero cambiar radicalmente la forma de usarla.	</p>
+	
+	<h2>Del consumo pasivo y efímero a la producción con vocación de permanencia</h2>
+
+	<p>
+	  Parece ser que la tendencia actual busca empujarnos a consumir I.A. de manera superficial, es decir:  generar respuestas rápidas, imágenes al azar, textos vacíos o soluciones de usar y tirar, o de copiar y pegar, si las circunstancias políticas y legislativas fueran distintas, si la amenaza de la censura o las restricciones no se vieran tan próximas, esta actitud podría pasar, simplemente, como una forma más, desinteresada tal vez,  de relacionarse con esta tecnología, y siendo así, una determinación personal, yo no tendría, ni tengo, nada que objetar, sin embargo este escrito surge bajo circunstancias más apremiantes y se dirige a quienes están interesados en usar esta herramienta, la I.A. Estas personas que buscan hacer uso de la I.A. en sus trabajos y en sus vidas en general si deben detenerse a pensar que si mañana las regulaciones cambian, los costos se disparan o el acceso se restringe, todo ese consumo efímero que hoy se lleva a cabo se evaporará sin dejar rastro.
+	</p>
+	
+	<p>
+	  Mi propuesta ante este panorama restrictivo es realmente simple, puede incluso parecer obvia, pero si la piensas y la analizas detenidamente es en verdad radical: no utilices la IA para reproducir contenido, úsala para producir algo que se quede contigo cuando te quiten la herramienta.
+	</p>
+	
+	<p>
+	  Con esto quiero decir que cada interacción se debe de hacer con un propósito de permanencia. En lo general estoy convencido de que el verdadero valor de una tecnología de esta magnitud no reside en esperar que haga el trabajo por nosotros, sino en lo que nos enseña mientras lo hacemos,este aspecto es importantísimo pues del mismo o de otros en relación directa con él se desprenden, y se seguirán desprendiendo, importantes debates, no solo el que presento ahora.
+	  Si utilizamos la IA para aprender a programar un script en lugar de pedirlo ya hecho y esperarlo sin errores, para estructurar conscientemente un proyecto web desde el principio, conociendo así sus componentes y su forma de trabajar, en vez de pedir un sitio y conformarnos con la primera plantilla, para redactar un ensayo o un artículo a partir de una idea propia que nos cuesta trabajo expresar o articular, en lugar de generar artículos que solo sirvan para llenar un espacio, o para comprender un concepto técnico que realmente nos interesa y no solo para copiar una respuesta, si se hace de esta manera el conocimiento es adquirido y se queda en nuestra mente. La herramienta puede desaparecer, pero la habilidad permanece.
+	</p>
+	
+	<h2>El problema no es tecnológico, es profundamente humano</h2>
+	
+	<p>
+	  Cuando es bien entendida esta visión presenta varias implicaciones importantes, de las que, sin embargo, una resalta especialmente, porque el día de hoy, cuando los titulares y los comités legislativos advierten sobre los peligros de una I.A. descontrolada parece que olvidan, precisamente, el factor humano mientras que se suele culpar a la tecnología misma de una supuesta rebeldía o amoralidad autónoma. Esta es una lectura sumamente superficial, que además parece resultar muy cómoda.
+	</p>
+
+	<p>
+	  Los problemas éticos o de supervisión que hoy preocupan no se deben a una carencia tecnológica, a la falta de procesamiento o a la necesidad de mayor infraestructura, sino a una la falta de comprensión y adaptabilidad por parte de la herramienta frente a una cuestión tan sumamente humana que de hecho solo puede ser concebida por el ser humano. Y al ser un problema humano, solo puede resolverse desde la intervención humana. Pretender que la IA opere en un vacío ético sin el anclaje de una persona es un error conceptual, precisamente porque solo el humano entiende de lo humano no podemos esperar que, en este aspecto, nuestras expectativas puedan ser satisfechas sin la intervención humana.
+	</p>
+	
+	<p>
+	  La visión de que la IA puede remover al ser humano —independientemente de cuán avanzados sean los modelos— ignora la naturaleza misma de la herramienta, esa visión, consciente o inconscientemente, parece olvidar o pasar por alto que, si bien estamos construyendo sistemas capaces de superar con creces las capacidades de procesamiento humano, seguimos siendo incapaces de automatizar las cualidades esenciales que nos definen como seres humanos: la intención, el criterio, el sentido de propósito y la ética, cualidades que, por cierto, solemos cargar de valores, exclusivamente humanos, pero que, de hecho, suelen cambiar en importancia para nosotros en un acto de esa misma naturaleza humana.
+	</p>
+
+	<h2>El involucramiento activo como método y fin</h2>
+	
+	<p>
+	  Apoyándome con lo expuesto hasta aquí no me parece exagerada la propuesta de que la forma en que nos relacionamos con la IA debe cambiar desde la raíz. No solo porque el flujo de trabajo tradicional se ha vuelto perezoso: pedir un resultado y esperar sentado frente a la pantalla, sino porque, como he querido argumentar, el factor humano es indispensable dentro del proceso y siendo ya así lo mejor es utilizar la herramienta de tal manera que sus resultados permanezcan frente a una eventual desaparición, o restricción, de la misma, presentando, entonces si, resultados que, yendo más allá del producto de consumo inmediato, resulten permanentemente útiles para el ser humano.
+	</p>
+	
+	<p>
+	  El proceso de involucramiento activo no solo es aconsejable para controlar la calidad de los resultados; se ha vuelto una necesidad operativa, metodológica y ahora, además, también en una previsión, una especie de protección frente a la amenaza. Consiste en meter las manos en el código, debatir los argumentos del modelo, corregir las premisas y entender el "por qué" detrás de cada respuesta. Cuando integras el aprendizaje de manera natural dentro del flujo de trabajo, la línea entre el proceso y la educación se difumina. Este, me parece fuertemente, debe ser el objetivo final de trabajar con IA, de esta manera el verdadero resultado de la interacción deja de ser únicamente el producto, terminado y entregado, para convertirse en el aprendizaje que ese producto genera en ti dando así un resultado permanente.
+	</p>
+
+	<p>
+	  Estoy convencido que al final la cuestión no es si podremos escalar algoritmos infinitos y superar cualquier métrica de capacidad humana, pienso que será más profunda,  porque la historia nos está demostrando una lección incómoda: podemos superar las capacidades humanas, pero al parecer todavía no sabemos cómo igualar sus cualidades. Y mientras eso no cambie, el papel del ser humano seguirá siendo decisivo y esencial en su relación con la tecnología, dada esta situación, ese involucramiento humano necesario es nuestra mejor opción, y quizá nuestra mayor oportunidad, porque, repasando todo esto el conocimiento y las habilidades que adquirimos además de ser una salvaguardia frente a cualquier regulación es convertirnos en mejores creadores, no en meros espectadores y es si es una cualidad decisiva. 
+	</p>
+      </div>
+      <p>© 2026 Francisco Javier Gómez Orozco</p>
+    </main>
+    
+    <div class="about-bottom-banner" id="p5-bottom-banner-container"></div>
+    <!--Script opcional de p5.js propio para el sketch-->
+    <script src="sketch.js"></script>
+    
+  </body>
+</html>
